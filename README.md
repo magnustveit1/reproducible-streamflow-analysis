@@ -1,5 +1,7 @@
 # HW #1 - Reproducible Time-Series Analysis, Temporal Scaling, and Visualizations
 
+![Image 1](fdata/Image1.png)
+
 ## Overview
 
 This repository contains a reproducible time-series analysis of daily USGS streamflow data from four Utah gaging stations. The project evaluates how temporal aggregation (daily, weekly, monthly) affects interpretation of snowmelt-driven hydrologic behavior.
